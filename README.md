@@ -26,3 +26,14 @@ Apenas as alterações com a nomeclatura "Irreversível", *NÃO* podem ser resta
 Alguns dos Repositorios que contribuiram com o projeto
 
 [Espionage724](https://github.com/Espionage724/Windows)
+
+
+## TAGS
+
+Win 10 Fast;
+Windows 10 Fast;
+Windows Optimization;
+Windows Otimização;
+Disable Services;
+Disable Tasks;
+Disable REG;
