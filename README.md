@@ -5,7 +5,7 @@ Windows Optimization
 
 Winop é um executável .bat que desabilita registros, tarefas e serviços otimizando o processamento do Sistema Operacional Windows
 
-## Install - Instalação
+## Install - INSTALAÇÃO
 
 Faça o download
 
