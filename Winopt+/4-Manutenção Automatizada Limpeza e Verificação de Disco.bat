@@ -7,6 +7,7 @@
 :: Roda Limpeza de Disco.
 :: Limpa DNS.
 :: Roda Desfragmentação de disco.
+:: Instala e inicializa o Firemin.
 :::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -55,12 +56,6 @@ rd /s /q "%USERPROFILE%\Recent"
 del /s /f /q "%USERPROFILE%\Cookies"\*.*    
 rd /s /q "%USERPROFILE%\Cookies"    
 :: md "%USERPROFILE%\Cookies"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:: Clears Google Chrome Cache.
-:: rd /s /q "%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\Cache"    
-:: md "%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\Cache"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
