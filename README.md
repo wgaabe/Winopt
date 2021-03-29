@@ -26,6 +26,7 @@ Apenas as alterações com a nomeclatura "Irreversível", *NÃO* podem ser resta
 Alguns dos Repositorios que contribuiram com o projeto
 
 [Espionage724](https://github.com/Espionage724/Windows)
+[W4RH4WK](https://github.com/W4RH4WK)
 
 
 ## TAGS
