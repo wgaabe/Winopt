@@ -60,6 +60,7 @@ rd /s /q "%USERPROFILE%\Cookies"
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::Firemin 
+cd /d %~dp0
 xcopy Utilitarios\Firemin c:\Firemin /i
 copy c:\Firemin\Firemin_X64.lnk "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\StartUp\Firemin_X64.lnk"
 start c:\Firemin\Firemin_X64.lnk
