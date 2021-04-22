@@ -14,12 +14,8 @@ https://codeload.github.com/wgaabe/Winopt/zip/main
 ```
 ## OBS
 
-Alguns processo podem ser desfeitos ! 
+Processo podem ser desfeitos ! 
 Algumas alterações possuem um arquivo de restauração, para ser desfeita as alterações caso ocorra algum problema
-
-## Warning - ATENÇÃO
-
-Apenas as alterações com a nomeclatura "Irreversível", *NÃO* podem ser restauradas
 
 ## Credits - CREDITOS
 
