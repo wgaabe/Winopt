@@ -59,6 +59,7 @@ rd /s /q "%USERPROFILE%\Recent"
 del /s /f /q "%USERPROFILE%\Cookies"\*.*    
 rd /s /q "%USERPROFILE%\Cookies"    
 :: md "%USERPROFILE%\Cookies"
+rd /q /s c:\$Recycle.Bin
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
