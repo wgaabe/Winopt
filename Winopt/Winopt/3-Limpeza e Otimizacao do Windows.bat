@@ -20,10 +20,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 :: SFC System File Repair.
 "%windir%\system32\sfc.exe" /scannow
 
-:: Disk Cleanup Utility.
-"%windir%\system32\cleanmgr.exe" /sageset:65535
-"%windir%\system32\cleanmgr.exe" /sagerun:65535
-
 :: Temp and Prefetch files cleanup.
 @echo off    
 del /s /f /q %windir%\temp\*.*    
